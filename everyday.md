@@ -1,5 +1,5 @@
 # Everyday
-> Copyright 2025 ©
+> Copyright 2026 ©
 
 ## Privacy Policy
 
