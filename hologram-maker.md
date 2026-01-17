@@ -1,5 +1,5 @@
 # Hologram Maker
-> Copyright 2023 ©
+> Copyright 2026 ©
 
 ## Privacy Policy
 
